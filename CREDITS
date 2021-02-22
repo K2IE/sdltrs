@@ -1,0 +1,47 @@
+CREDITS
+
+ sdltrs was conceived by Mark Grebe.  This repo was imported from his
+ Sourceforge 1.1.0 repo.
+ (https://sourceforge.net/p/sdltrs/code/HEAD/tree/trunk/)
+
+ sdltrs would not be possible without Tim Mann's wonderful TRS-80, xtrs, upon
+ which it is based.  Thanks Tim!!!!  (http://tim-mann.org/trs80.html)
+
+libSDL Team
+
+ Big thanks also go to the libSDL team for creating the great cross platform
+ library that makes sdltrs possible!!
+
+I also thank the following people for their help for the items brought over
+from xtrs.
+
+ The JV1 and JV3 floppy disk file formats were designed by Jeff Vavasour,
+ originally for his MSDOS-based TRS-80 emulators.
+
+ The DMK format was designed by David Keil for his MSDOS-based TRS-80 emulator.
+
+ The hard disk file format was designed by Matthew Reed for his MSDOS-based
+ TRS-80 emulators.
+
+ Al Petrofsky and Todd P. Cromwell III supplied font data.
+
+ Roland Gerlach contributed the CP/M import and export programs as well as
+ several bug reports and fixes for the emulator itself.
+
+ Ulrich Mueller added the -borderwidth option, improved the -scale option and
+ the bitmap font scaling, ported the import, export, and settime
+ utilities to Newdos/80, and contributed the HRG1B emulation.
+
+ Branden Robinson supplied the first version of the cassette man page, fixed
+ Makefile bugs, translated cassette to the Bourne shell, and implemented
+ watchpoints in zbx.
+
+ Mark McDougall provided documentation for the Micro Labs Grafyx Solution card.
+
+ Jenz Guenther added the -title option and contributed code to emulate the
+ GENIE (German Model I clone).
+
+ Joe Peterson contributed code to emulate the TimeDate80 and the -emtsafe
+ feature.
+
+ Denis Leconte contributed part of the -scale implementation.
